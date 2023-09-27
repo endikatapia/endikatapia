@@ -1,12 +1,10 @@
 ### Hi there 👋
 
-, part of the University of the Basque Country.
-
 I'm a Researcher at Aeronautics Advanced Manufacturing Center (CFAA), part of the University of the Basque Country.
 
 My main research area is parallel and distributed computing, with focus on scalable data systems and industrial communication protocols.
 
-For more details about my publications, teaching, etc, please check out my personal webpage.
+For more details about my publications, etc, please check out my personal webpage.
 
 <!--
 **endikatapia/endikatapia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
