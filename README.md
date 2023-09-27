@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I'm a Researcher at Aeronautics Advanced Manufacturing Center (CFAA) part of the University of the Basque Country.
+
+My main research area is parallel and distributed computing, with focus on scalable data systems and industrial communication protocols.
+
+For more details about my publications, teaching, etc, please check out my personal webpage.
+
 <!--
 **endikatapia/endikatapia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +20,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
